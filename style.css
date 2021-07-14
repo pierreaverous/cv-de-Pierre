@@ -72,7 +72,7 @@
   background-color: #303f3c;
   color: #ffdf2b;
   height: auto;
-  width: 72vw;
+  width: 102vw;
   text-align: center;
 
 }
@@ -102,6 +102,9 @@
   float: left;
   width: 30%;
   height: auto;
+}
+a:hover{
+  transition: 0.3s ease;
 }
 
 .logo-text {
@@ -137,12 +140,21 @@
   width: 75%;
   text-align: center;
 }
+.projet-titre{
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  text-align: center;
+  margin-right: 1%;
+  margin-top:  -1%;;
+  color:white;
 
+}
 .ul-margin {
   display: block;
   text-align: -webkit-auto;
   margin-left: 15%;
-
 }
-/* carrousel  */
 
+
+/* carrousel  */

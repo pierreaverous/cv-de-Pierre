@@ -1,0 +1,148 @@
+.background-color {
+  background-color: #b1b1af;
+  margin: 0px;
+  display: flex;
+  flex-direction: row-reverse;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.name {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 28px;
+}
+
+.job {
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.img-rocket {
+  width: 32px;
+  display: inline-block;
+  margin-top: 1vw;
+}
+
+#hr-rocket {
+  background-color: #ffdf2b;
+  border: #ffdf2b;
+  height: 2px;
+  border-radius: 50%;
+  width: 90%;
+  margin-right: 0%;
+}
+
+.text-left {
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  text-align: center;
+  color: white;
+}
+
+.a-propos {
+  display: flex;
+  margin-left: 5vw;
+}
+
+.text-description {
+  display: flex;
+  margin-left: 5vw;
+  color: white;
+}
+
+#text-description-propos {
+  display: flex;
+  margin-left: 5vw;
+  color: white;
+  margin-right: 12%;
+}
+
+.exp-pro {
+  background-color: #ffdf2b;
+  border: #ffdf2b;
+  height: 2px;
+  border-radius: 50%;
+  width: 82%;
+}
+
+
+.background-left {
+  float: right;
+  background-color: #303f3c;
+  color: #ffdf2b;
+  height: auto;
+  width: 72vw;
+  text-align: center;
+
+}
+
+.image_contact {
+  display: flex;
+}
+
+
+.photo_profile {
+  width: 32vw;
+  margin: 2vw;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.hr-color {
+  background-color: black;
+  height: 2px;
+  border: black;
+  width: 28vw;
+  border-radius: 50%;
+}
+
+.logo {
+  display: inline-block;
+  float: left;
+  width: 30%;
+  height: auto;
+}
+
+.logo-text {
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  text-align: center;
+}
+
+.logo-position {
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 15%;
+
+}
+
+.left-content {
+  width: 70%;
+  display: inline-block;
+}
+
+.Logo {
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 15%;
+}
+
+.Titre {
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  text-align: center;
+}
+
+.ul-margin {
+  display: block;
+  text-align: -webkit-auto;
+  margin-left: 15%;
+
+}
+/* carrousel  */
+

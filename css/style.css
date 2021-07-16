@@ -83,7 +83,7 @@
 
 
 .photo_profile {
-  width: 32vw;
+  width: 28vw;
   margin: 2vw;
   border-radius: 8px;
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
@@ -103,7 +103,8 @@
   width: 30%;
   height: auto;
 }
-a:hover{
+
+a:hover {
   transition: 0.3s ease;
 }
 
@@ -140,16 +141,19 @@ a:hover{
   width: 75%;
   text-align: center;
 }
-.projet-titre{
+
+.projet-titre {
   display: inline-block;
   vertical-align: top;
   width: 75%;
   text-align: center;
   margin-right: 1%;
-  margin-top:  -1%;;
-  color:white;
+  margin-top: -1%;
+  ;
+  color: white;
 
 }
+
 .ul-margin {
   display: block;
   text-align: -webkit-auto;
